@@ -1,0 +1,105 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    gap: 0px;
+}
+
+h2{
+    padding: 20px;
+}
+
+#obj{
+    padding: 20px;
+    gap: 15px;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+main{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Chivo Mono', monospace;
+    
+    font-size: 11px;
+    background: rgb(51,77,170);
+    background: linear-gradient(0deg, rgba(51,77,170,1) 11%, rgba(0,0,0,1) 81%);
+}
+
+#ims{
+    height: 260px;
+    width: 230px;
+    border-radius: 70px;
+    border: 2px solid;
+}
+
+.imgdiv{
+    border-radius: 30px;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+}
+
+.imgdivi{
+    border-radius: 30px;
+    padding: 10px;
+    height: 80px;
+    width: 80px;
+}
+
+#objetivos{
+    padding: 15px;
+}
+
+.IMGSS{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border: 2px solid;
+}
+
+#nos{
+    padding: 20px;
+}
+
+#grid{
+    display: grid;
+    grid-template-rows: 1fr 1fr ;
+}
+
+#grida{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 10px;
+}
+
+#grido{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 10px;
+}
+
+#tec{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 10px;
+}
+
+.borda{
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 20px;
+    height: 150px;
+}
